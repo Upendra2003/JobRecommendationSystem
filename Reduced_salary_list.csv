@@ -1,0 +1,991 @@
+,Rating,Company Name,Job Title,Salary,Salaries Reported,Location,Employment Status,Job Roles
+0,3.9,Zibtek,Mobile Software Developer,200000,1,Bangalore,Full Time,SDE
+1,3.8,LTI,Python Software Engineer - Intern,60000,1,Bangalore,Intern,SDE
+2,4.1,Siemens,Software Engineer(Python Developer),1800000,1,Bangalore,Full Time,SDE
+3,3.3,Infosys,Senior Python Developer/Software Engineer,500000,1,Bangalore,Full Time,SDE
+4,3.8,LTI,Senior Python Developer/Software Engineer,744000,1,Bangalore,Full Time,SDE
+5,4.1,Fresher,Software Developer - Python(Fresher),348000,1,Bangalore,Full Time,SDE
+6,4.3,Fresher,Software Developer - Python(Fresher),300000,1,Bangalore,Full Time,SDE
+7,2.2,Gyanmanjari Institute of Technology,Software Developer - Python(Fresher),648000,1,Bangalore,Full Time,SDE
+8,4.1,First Student,Software Engineer Python - Machine Learning Role,400000,1,Bangalore,Full Time,SDE
+9,4.0,Mojocare,SDE2 - Python,1200000,1,Bangalore,Full Time,SDE
+10,4.2,Microsec,Software Engineer (Python/Django) - Intern,108000,1,Chennai,Intern,SDE
+11,4.2,Qualcomm Technologies,Software Engineer(Python Programmer),1500000,1,Chennai,Full Time,SDE
+12,3.4,TouchPoint Support Services,Python Software Developer,300000,1,Hyderabad,Full Time,SDE
+13,4.1,Accenture,Sr. Python Developer/Software Engineer,1100000,1,Hyderabad,Full Time,SDE
+14,4.4,FreshersLive,Software Developer - Python(Fresher),396000,1,Hyderabad,Full Time,SDE
+15,4.7,PythonAnywhere,Software Developer - Python(Fresher),288000,1,Hyderabad,Full Time,SDE
+16,4.1,Mahalaxmi Industries,Software Engineer(Python Programmer),300000,1,Hyderabad,Full Time,SDE
+17,5.0,Zapiot Technologies,"Software Engineer(PHP, Python, React, Laravel, Js)",400000,1,Hyderabad,Full Time,SDE
+18,4.1,Shell,Software Development Engineer,156000,1,Bangalore,Full Time,SDE
+19,4.3,314e,Software Development Engineer,180000,1,Bangalore,Full Time,SDE
+20,4.1,Flipkart,Software Development Engineer (SDE),228000,2,Bangalore,Full Time,SDE
+21,4.0,GE,Software Development Engineer - Intern,46464,1,Bangalore,Intern,SDE
+22,3.1,Conduent,Software Development Engineer,300000,1,Bangalore,Full Time,SDE
+23,4.9,MMACH Design,Software Development Engineer,500000,1,Bangalore,Full Time,SDE
+24,3.4,JB Boda & Company,Software Development Engineer - Contractor,840000,1,Bangalore,Contractor,SDE
+25,4.3,Intel Corporation,Software Development Engineer,1200000,1,Bangalore,Full Time,SDE
+26,4.3,Jupiter Money,Software Development Engineer,1200000,1,Bangalore,Full Time,SDE
+27,4.0,FireEye,Software Development Engineer,1700000,1,Bangalore,Full Time,SDE
+28,3.7,Headrun Technologies,Software Development Engineer - Intern,200000,1,Bangalore,Intern,SDE
+29,3.8,Tesco,Software Development Engineer - Contractor,3300000,1,Bangalore,Contractor,SDE
+30,4.2,MakeMyTrip,Software Development Engineer,996000,4,Bangalore,Full Time,SDE
+31,4.1,PayPal,Software Development Engineer,624000,4,Bangalore,Full Time,SDE
+32,4.0,Goldman Sachs,Software Development Engineer - Intern,996000,4,Bangalore,Intern,SDE
+33,3.8,Amazon,Software Development Engineer,960000,3,Bangalore,Full Time,SDE
+34,4.0,Self,Software Development Engineer (SDE),100000,3,Bangalore,Full Time,SDE
+35,4.0,Cyware,Software Development Engineer In Test (SDET) II,1092000,3,Bangalore,Full Time,SDE
+36,3.9,Quinbay,Software Development Engineer (SDE),800000,8,Bangalore,Full Time,SDE
+37,3.9,Publicis Sapient,Software Development Engineer (SDE),700000,7,Bangalore,Full Time,SDE
+38,4.4,SAP,Software Development Engineer In Test (SDET),1000000,4,Bangalore,Full Time,SDE
+39,3.6,Micro Focus,Software Development Engineer (SDE),800000,3,Bangalore,Full Time,SDE
+40,3.8,Arvind,Software Development Engineer,400000,7,Bangalore,Full Time,SDE
+41,4.7,TestVagrant,Software Development Engineer In Test,800000,5,Bangalore,Full Time,SDE
+42,3.8,MediBuddy,Software Development Engineer I,1000000,4,Bangalore,Full Time,SDE
+43,3.8,MediBuddy,Software Development Engineer,1000000,3,Bangalore,Full Time,SDE
+44,3.7,Target,Software Development Engineer,1000000,3,Bangalore,Full Time,SDE
+45,4.3,Nineleaps Technology Solutions,Software Development Engineer In Test (SDET),400000,3,Bangalore,Full Time,SDE
+46,3.9,NextGen Healthcare,Software Development Engineer In Test (SDET) II,700000,3,Bangalore,Full Time,SDE
+47,3.7,OneDirect (India),Software Development Engineer (SDE),1000000,3,Bangalore,Full Time,SDE
+48,3.9,XYZ (Turkey),Software Development Engineer (SDE),100000,3,Bangalore,Full Time,SDE
+49,3.8,XYZ,Software Development Engineer (SDE),200000,6,Bangalore,Full Time,SDE
+50,3.4,OYO,Software Development Engineer (SDE),300000,14,Bangalore,Full Time,SDE
+51,4.2,Licious,Software Development Engineer I,800000,4,Bangalore,Full Time,SDE
+52,4.3,Cisco Systems,Software Development Engineer I,200000,7,Bangalore,Full Time,SDE
+53,4.5,Attivo Networks,Software Development Engineer In Test (SDET),400000,6,Bangalore,Full Time,SDE
+54,4.4,Jumbotail,Software Development Engineer (SDE),800000,3,Bangalore,Full Time,SDE
+55,4.2,Juniper Networks,Software Development Engineer,200000,3,Bangalore,Full Time,SDE
+56,4.3,SonicWall,Software Development Engineer,1000000,3,Bangalore,Full Time,SDE
+57,3.3,Hewlett-Packard,Senior Software Development Engineer,100000,3,Bangalore,Full Time,SDE
+58,4.4,Microsoft,Software Development Engineer (SDE),100000,3,Bangalore,Full Time,SDE
+59,4.1,Hewlett Packard Enterprise | HPE,Software Development Engineer (SDE),900000,6,Bangalore,Full Time,SDE
+60,3.2,Verifone,Software Development Engineer II,700000,5,Bangalore,Full Time,SDE
+61,4.5,ZestMoney,Software Development Engineer I,1000000,3,Bangalore,Full Time,SDE
+62,4.3,Altair Engineering,Software Development Engineer,600000,3,Bangalore,Full Time,SDE
+63,3.9,Oracle,Software Development Engineer (SDE),200000,18,Bangalore,Full Time,SDE
+64,3.3,Ola,Software Development Engineer In Test (SDET),500000,9,Bangalore,Full Time,SDE
+65,4.6,Increff,Software Development Engineer (SDE1),1000000,3,Bangalore,Full Time,SDE
+66,3.7,Trellix,Software Development Engineer (SDE),900000,4,Bangalore,Full Time,SDE
+67,4.7,TestVagrant,Software Development Engineer In Test (SDET),400000,16,Bangalore,Full Time,SDE
+68,3.3,Ola,Software Development Engineer In Test,200000,8,Bangalore,Full Time,SDE
+69,3.9,Publicis Sapient,Software Development Engineer,300000,7,Bangalore,Full Time,SDE
+70,4.4,SAP,Software Development Engineer,100000,11,Bangalore,Full Time,SDE
+71,4.3,Datami,Software Development Engineer (SDE),900000,3,Bangalore,Full Time,SDE
+72,3.9,HARMAN,Senior Software Development Engineer,900000,8,Bangalore,Full Time,SDE
+73,3.7,McAfee,Software Development Engineer (SDE),200000,21,Bangalore,Full Time,SDE
+74,3.8,Signify,Software Development Engineer,800000,10,Bangalore,Full Time,SDE
+75,4.4,Fisdom,Software Development Engineer (SDE),800000,3,Bangalore,Full Time,SDE
+76,2.7,Khosla Labs,Software Development Engineer,1000000,2,Bangalore,Full Time,SDE
+77,4.3,Gojek,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+78,4.1,LeadSquared,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+79,5.0,AppBroda Tech,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+80,4.0,Arcesium,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+81,3.8,Supermarket Grocery Supplies,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+82,3.9,Shubham Housing Development Finance,Software Development Engineer - Intern,1000000,1,Bangalore,Intern,SDE
+83,4.1,InViz AI Solutions,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+84,4.0,Motogo,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+85,4.1,NIT Patna,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+86,3.7,Jason's Deli,Software Development Engineer - Contractor,1000000,1,Bangalore,Contractor,SDE
+87,4.2,Indira Gandhi Delhi Technical University for Women,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+88,4.4,Tata CLiQ,Software Development Engineer I,1000000,2,Bangalore,Full Time,SDE
+89,4.5,Betterhalf,Software Development Engineer,1000000,1,Bangalore,Full Time,SDE
+90,3.8,Sasken,Android Developer,400000,3,Bangalore,Full Time,Android
+91,4.5,Advanced Millennium Technologies,Android Developer,400000,3,Bangalore,Full Time,Android
+92,4.0,Unacademy,Android Developer,1000000,3,Bangalore,Full Time,Android
+93,3.8,SnapBizz Cloudtech,Android Developer,300000,3,Bangalore,Full Time,Android
+94,4.4,Appoids Tech Solutions,Android Developer,600000,3,Bangalore,Full Time,Android
+95,4.2,Freelancer,Android Developer,100000,3,Bangalore,Full Time,Android
+96,3.7,SQUARE N CUBE,Android Developer,192000,3,Bangalore,Full Time,Android
+97,3.1,Samsung R&D Institute India - Bangalore,Android Developer,400000,3,Bangalore,Full Time,Android
+98,3.7,DXMinds Technologies,Android Developer,300000,3,Bangalore,Full Time,Android
+99,3.6,Endeavour Software Technologies,Android Developer,600000,3,Bangalore,Full Time,Android
+100,3.6,Craft Silicon,Android Developer,300000,3,Bangalore,Full Time,Android
+101,3.9,Baronford & Associates,Android Developer,240000,2,Bangalore,Full Time,Android
+102,3.7,Wibmo,Android Developer,900000,2,Bangalore,Full Time,Android
+103,4.8,Retail Pulse,Android Developer - Intern,24000,2,Bangalore,Intern,Android
+104,3.9,Bookmyshow,Android Developer,600000,2,Bangalore,Full Time,Android
+105,3.9,Knowledge Flex,Android Developer,228000,2,Bangalore,Full Time,Android
+106,3.6,Novopay Solutions,Android Developer,600000,2,Bangalore,Full Time,Android
+107,3.7,WealthEngine,Android Developer,360000,2,Bangalore,Full Time,Android
+108,4.0,J.P. Morgan,Android Developer,1000000,2,Bangalore,Full Time,Android
+109,3.6,Acviss,Android Developer,500000,2,Bangalore,Full Time,Android
+110,4.1,Fresher,Android Developer,408000,2,Bangalore,Full Time,Android
+111,4.2,MedOnGo,Android Developer,300000,2,Bangalore,Full Time,Android
+112,4.0,Nuclei,Android Developer,800000,2,Bangalore,Full Time,Android
+113,4.4,eSecForte Technologies,Android Developer,228000,2,Bangalore,Full Time,Android
+114,4.3,Moveinsync Technology Solutions,Android Developer,100000,2,Bangalore,Full Time,Android
+115,3.6,Tech Mahindra,Android Developer,500000,2,Bangalore,Full Time,Android
+116,4.0,ThiDiff Technologies,Android Developer,200000,2,Bangalore,Full Time,Android
+117,4.9,Retranz Infolabs,Android Developer,500000,2,Bangalore,Full Time,Android
+118,4.0,FicusLot,Android Developer,228000,2,Bangalore,Full Time,Android
+119,3.7,KrazyBee,Android Developer,708000,2,Bangalore,Full Time,Android
+120,5.0,powerplay app,Android Developer - Intern,396000,2,Bangalore,Intern,Android
+121,4.2,Dcoder,Android Developer,700000,2,Bangalore,Full Time,Android
+122,4.6,Masai School,Android Developer,500000,2,Bangalore,Full Time,Android
+123,3.9,Integra Micro Software Services (P),Android Developer,500000,2,Bangalore,Full Time,Android
+124,3.3,DocsApp,Android Developer,900000,2,Bangalore,Full Time,Android
+125,5.0,Vispara Technosoft,Android Developer,200000,2,Bangalore,Full Time,Android
+126,4.3,Vmoksha Technologies,Android Developer,228000,2,Bangalore,Full Time,Android
+127,2.9,Artoo,Android Developer,400000,2,Bangalore,Full Time,Android
+128,3.8,Edelweiss Financial Services,Android Developer,600000,2,Bangalore,Full Time,Android
+129,4.0,Hubbler,Android Developer,400000,2,Bangalore,Full Time,Android
+130,3.5,L&T Technology Services,Android Developer,500000,2,Bangalore,Full Time,Android
+131,3.0,Rossitek Mobile Apps Development,Android Developer,216000,2,Bangalore,Full Time,Android
+132,1.0,Pricyfy,Android Developer,216000,2,Bangalore,Full Time,Android
+133,2.9,MYNEWCAR,Android Developer,300000,2,Bangalore,Full Time,Android
+134,4.1,IBM,Android Developer,540000,2,Bangalore,Full Time,Android
+135,3.7,Panel Coder Software Technologies,Android Developer,400000,2,Bangalore,Full Time,Android
+136,3.9,Knitter,Android Developer,500000,2,Bangalore,Full Time,Android
+137,3.8,3Embed Software Technologies,Android Developer,400000,2,Bangalore,Full Time,Android
+138,3.4,Web Digital Mantra,Android Developer,100000,2,Bangalore,Full Time,Android
+139,4.5,FitnyTech,Android Developer,252000,2,Bangalore,Full Time,Android
+140,4.8,CRK Gida Technologies,Android Developer,700000,2,Bangalore,Full Time,Android
+141,3.7,FuGenX Technologies,Android Developer,100000,2,Bangalore,Full Time,Android
+142,4.6,Outthinking,Android Developer,200000,2,Bangalore,Full Time,Android
+143,2.8,iMars Technologies,Android Developer,156000,2,Bangalore,Full Time,Android
+144,4.7,GreedyGame,Android Developer - Intern,348000,2,Bangalore,Intern,Android
+145,4.1,In Time Tec,Android Developer,600000,2,Bangalore,Full Time,Android
+146,4.3,IndGlobal,Android Developer,300000,2,Bangalore,Full Time,Android
+147,4.1,CYBERNETYX Interaktiv,Android Developer,864000,2,Bangalore,Full Time,Android
+148,3.7,Karabi Software,Android Developer,120000,2,Bangalore,Full Time,Android
+149,4.3,Keyfalcon Solutions,Android Developer,400000,2,Bangalore,Full Time,Android
+150,3.9,ABCDEF,Android Developer,168000,2,Bangalore,Full Time,Android
+151,4.6,Cumulations Technologies,Android Developer,400000,2,Bangalore,Full Time,Android
+152,4.2,Dcoder,Android Developer - Intern,96000,2,Bangalore,Intern,Android
+153,5.0,powerplay app,Android Developer,1000000,2,Bangalore,Full Time,Android
+154,4.0,Fembuddy,Android Developer,420000,2,Bangalore,Full Time,Android
+155,4.5,Blewsoft Technologies,Android Developer,240000,2,Bangalore,Full Time,Android
+156,4.2,Across The Globe,Android Developer - Intern,72000,2,Bangalore,Intern,Android
+157,3.9,HARMAN,Android Developer,700000,2,Bangalore,Full Time,Android
+158,3.2,Oust Labs,Android Developer,396000,2,Bangalore,Full Time,Android
+159,4.0,Kaskeid Designs,Android Developer,264000,2,Bangalore,Full Time,Android
+160,3.6,TruKKer Technologies,Android Developer,500000,2,Bangalore,Full Time,Android
+161,3.3,Datamatics Global Services,Android Developer,1000000,2,Bangalore,Full Time,Android
+162,3.1,Grabhouse,Android Developer,672000,2,Bangalore,Full Time,Android
+163,2.8,Msewa Software Solution,Android Developer,276000,2,Bangalore,Full Time,Android
+164,3.8,Honeywell,Android Developer,800000,2,Bangalore,Full Time,Android
+165,3.7,Prematix Software Solution,Android Developer,200000,2,Bangalore,Full Time,Android
+166,3.4,Provab Technosoft,Android Developer,492000,2,Bangalore,Full Time,Android
+167,3.0,Ai-Connect,Android Developer,600000,1,Bangalore,Full Time,Android
+168,3.3,Idea infinity IT Solutions,Android Developer,300000,1,Bangalore,Full Time,Android
+169,3.1,Developer On Rent,Android Developer,300000,1,Bangalore,Full Time,Android
+170,4.0,OZOPROP Technologies,Android Developer,432000,1,Bangalore,Full Time,Android
+171,3.7,ThinkTac,Android Developer - Intern,200000,1,Bangalore,Intern,Android
+172,4.3,Ashwin Infotrron,Android Developer,1188000,1,Bangalore,Full Time,Android
+173,4.5,Housejoy,Android Developer,500000,1,Bangalore,Full Time,Android
+174,5.0,Proven Solution,Android Developer,500000,1,Bangalore,Full Time,Android
+175,5.0,Blooms Mobility Technologies,Android Developer,300000,1,Bangalore,Full Time,Android
+176,3.9,DT Consulting,Android Developer,1000000,1,Bangalore,Full Time,Android
+177,4.8,Kartel Technosoft,Android Developer,400000,1,Bangalore,Full Time,Android
+178,3.9,Philips,Android Developer,500000,1,Bangalore,Full Time,Android
+179,3.4,Vensure Employer Services,Android Developer,732000,1,Bangalore,Full Time,Android
+180,4.1,Siemens,Front End Developer,500000,3,Bangalore,Full Time,Frontend
+181,4.3,Fresher,Front End Developer,500000,3,Bangalore,Full Time,Frontend
+182,4.2,K12 Techno Services,Front End Developer,300000,3,Bangalore,Full Time,Frontend
+183,3.9,myGate,Front End Developer,700000,3,Bangalore,Full Time,Frontend
+184,4.2,Moonraft Innovation Labs,Front End Developer,600000,3,Bangalore,Full Time,Frontend
+185,4.5,Recro,Front End Developer,800000,3,Bangalore,Full Time,Frontend
+186,4.6,Appiness Interactive,Front End Developer,264000,3,Bangalore,Full Time,Frontend
+187,4.1,Playment,Front End Developer,300000,3,Bangalore,Full Time,Frontend
+188,3.5,DXC Technology,Front End Developer,500000,2,Bangalore,Full Time,Frontend
+189,3.9,PwC,Front End Developer,400000,2,Bangalore,Full Time,Frontend
+190,4.0,Mindtree,Front End Developer,516000,2,Bangalore,Full Time,Frontend
+191,3.8,Tata Consultancy Services (North America),Front End Developer,312000,2,Bangalore,Full Time,Frontend
+192,4.0,TCS,Front End Developer,456000,2,Bangalore,Full Time,Frontend
+193,4.0,Nones,Front End Developer,240000,2,Bangalore,Full Time,Frontend
+194,4.1,EMPLOYERS,Front End Developer,468000,2,Bangalore,Full Time,Frontend
+195,4.3,Fidelity Investments,Front End Developer,600000,2,Bangalore,Full Time,Frontend
+196,4.4,Happiest Minds Technologies,Front End Developer,1200000,2,Bangalore,Full Time,Frontend
+197,4.1,Test,Front End Developer,348000,2,Bangalore,Full Time,Frontend
+198,3.3,Datamatics Global Services,Front End Developer,700000,2,Bangalore,Full Time,Frontend
+199,4.3,HashedIn by Deloitte,Front End Developer,500000,2,Bangalore,Full Time,Frontend
+200,3.8,Epsilon,Front End Developer,500000,2,Bangalore,Full Time,Frontend
+201,3.8,ClearTax,Front End Developer,1400000,2,Bangalore,Full Time,Frontend
+202,3.9,Bookmyshow,Front End Developer,700000,2,Bangalore,Full Time,Frontend
+203,4.1,MountBlue Technologies,Front End Developer,312000,2,Bangalore,Full Time,Frontend
+204,3.9,Soroco,Front End Developer,900000,2,Bangalore,Full Time,Frontend
+205,4.1,Geekyants Software,Front End Developer,500000,2,Bangalore,Full Time,Frontend
+206,3.8,Terralogic,Front End Developer,300000,2,Bangalore,Full Time,Frontend
+207,4.0,i-exceed technology solutions,Front End Developer,348000,2,Bangalore,Full Time,Frontend
+208,4.1,Headout,Front End Developer - Intern,204000,2,Bangalore,Intern,Frontend
+209,4.4,Locus,Front End Developer,100000,2,Bangalore,Full Time,Frontend
+210,3.2,Shaw Academy,Front End Developer,336000,2,Bangalore,Full Time,Frontend
+211,4.6,Masai School,Front End Developer,600000,2,Bangalore,Full Time,Frontend
+212,3.3,Xelpmoc Design & Tech,Front End Developer,144000,2,Bangalore,Full Time,Frontend
+213,3.3,CoWrks,Front End Developer,500000,2,Bangalore,Full Time,Frontend
+214,4.2,Fisdom,Front End Developer,900000,2,Bangalore,Full Time,Frontend
+215,3.4,Provab Technosoft,Front End Developer,300000,2,Bangalore,Full Time,Frontend
+216,4.3,CognitiveClouds,Front End Developer,300000,2,Bangalore,Full Time,Frontend
+217,2.3,Artivatic Data Labs,Front End Developer,700000,2,Bangalore,Full Time,Frontend
+218,4.5,VuNet Systems,Front End Developer,600000,2,Bangalore,Full Time,Frontend
+219,3.4,Checktronix,Front End Developer,400000,2,Bangalore,Full Time,Frontend
+220,3.5,triSys IT Services,Front End Developer,300000,2,Bangalore,Full Time,Frontend
+221,4.2,Cartoon Mango,Front End Developer,1188000,2,Bangalore,Full Time,Frontend
+222,4.6,SpotDraft,Front End Developer,800000,2,Bangalore,Full Time,Frontend
+223,4.5,Marmeto,Front End Developer,300000,2,Bangalore,Full Time,Frontend
+224,4.0,PhaseZero Ventures,Front End Developer,144000,2,Bangalore,Full Time,Frontend
+225,3.6,iOSys,Front End Developer,200000,2,Bangalore,Full Time,Frontend
+226,4.8,Panorbit,Front End Developer,192000,2,Bangalore,Full Time,Frontend
+227,4.1,Maistering,Front End Developer,600000,2,Bangalore,Full Time,Frontend
+228,3.8,Zersys Technologies,Front End Developer,200000,2,Bangalore,Full Time,Frontend
+229,3.7,Amplus,Front End Developer,120000,2,Bangalore,Full Time,Frontend
+230,3.9,Hop financial solutions,Front End Developer,300000,2,Bangalore,Full Time,Frontend
+231,4.5,Machstatz,Front End Developer,144000,2,Bangalore,Full Time,Frontend
+232,3.0,Data Ratings Intelligence,Front End Developer,800000,2,Bangalore,Full Time,Frontend
+233,3.9,Tata Consultancy Services,Front End Developer,300000,1,Bangalore,Full Time,Frontend
+234,4.1,Accenture,Front End Developer,120000,1,Bangalore,Full Time,Frontend
+235,3.7,HCL Technologies,Front End Developer,1100000,1,Bangalore,Full Time,Frontend
+236,3.9,Oracle,Front End Developer,1200000,1,Bangalore,Full Time,Frontend
+237,3.7,BYJU'S,Front End Developer,600000,1,Bangalore,Full Time,Frontend
+238,4.1,First Student,Front End Developer,24000,1,Bangalore,Full Time,Frontend
+239,4.1,Fresher,Front End Developer - Intern,120000,1,Bangalore,Intern,Frontend
+240,3.9,HARMAN,Front End Developer,636000,1,Bangalore,Full Time,Frontend
+241,4.0,Zomato,Front End Developer,1500000,1,Bangalore,Full Time,Frontend
+242,4.3,Self Opportunity,Front End Developer,300000,1,Bangalore,Full Time,Frontend
+243,3.8,XYZ,Front End Developer,400000,1,Bangalore,Full Time,Frontend
+244,4.0,TATA ELXSI,Front End Developer,500000,1,Bangalore,Full Time,Frontend
+245,3.7,Sopra Steria,Front End Developer,500000,1,Bangalore,Full Time,Frontend
+246,3.9,Philips,Front End Developer,612000,1,Bangalore,Full Time,Frontend
+247,3.3,Ola,Front End Developer,2100000,1,Bangalore,Full Time,Frontend
+248,3.4,Vedantu,Front End Developer,200000,1,Bangalore,Full Time,Frontend
+249,3.9,ABCDEF,Front End Developer,912000,1,Bangalore,Full Time,Frontend
+250,4.0,ABB,Front End Developer,500000,1,Bangalore,Full Time,Frontend
+251,4.2,HP Inc.,Front End Developer,1100000,1,Bangalore,Full Time,Frontend
+252,4.1,[24]7.ai,Front End Developer,252000,1,Bangalore,Full Time,Frontend
+253,3.7,Huawei Technologies,Front End Developer,2500000,1,Bangalore,Full Time,Frontend
+254,3.8,Anonymous,Front End Developer,600000,1,Bangalore,Full Time,Frontend
+255,3.8,Anonymous,Front End Developer - Intern,36000,1,Bangalore,Intern,Frontend
+256,4.1,Shell,Front End Developer,1400000,1,Bangalore,Full Time,Frontend
+257,4.1,Shell,Front End Developer - Intern,312000,1,Bangalore,Intern,Frontend
+258,3.9,XYZ (Turkey),Front End Developer,900000,1,Bangalore,Full Time,Frontend
+259,3.3,Walmart,Front End Developer,1600000,1,Bangalore,Full Time,Frontend
+260,3.9,JLL,Front End Developer,700000,1,Bangalore,Full Time,Frontend
+261,4.1,Virtual Employee,Front End Developer,672000,1,Bangalore,Full Time,Frontend
+262,3.9,Sonata Software,Front End Developer,600000,1,Bangalore,Full Time,Frontend
+263,4.0,Decathlon,Front End Developer,300000,1,Bangalore,Full Time,Frontend
+264,4.6,Intuit,Front End Developer,492000,1,Bangalore,Full Time,Frontend
+265,4.0,Visa Inc.,Front End Developer,492000,1,Bangalore,Full Time,Frontend
+266,3.7,Infinite Computer Solutions,Front End Developer,1400000,1,Bangalore,Full Time,Frontend
+267,4.0,Walmart Global Tech,Front End Developer,900000,1,Bangalore,Full Time,Frontend
+268,4.1,Manhattan Associates,Front End Developer,1200000,1,Bangalore,Full Time,Frontend
+269,3.9,Brillio,Front End Developer,500000,1,Bangalore,Full Time,Frontend
+270,3.9,Tata Consultancy Services,Java Developer,200000,30,Chennai,Full Time,Java
+271,3.8,Cognizant Technology Solutions,Java Developer,400000,19,Chennai,Full Time,Java
+272,3.7,HCL Technologies,Java Developer,1020000,6,Chennai,Full Time,Java
+273,4.3,Full Creative,Java Developer - Intern,132000,5,Chennai,Intern,Java
+274,3.7,Sans Pareil IT Services,Java Developer,84000,5,Chennai,Full Time,Java
+275,4.5,DLK Technologies,Java Developer,216000,5,Chennai,Full Time,Java
+276,3.1,Infoview Technologies Pvt Limited,Java Developer,600000,4,Chennai,Full Time,Java
+277,3.3,Infosys,Java Developer,100000,3,Chennai,Full Time,Java
+278,3.8,Wipro,Java Developer,200000,3,Chennai,Full Time,Java
+279,3.8,Capgemini,Java Developer,100000,3,Chennai,Full Time,Java
+280,3.7,Virtusa,Java Developer,400000,3,Chennai,Full Time,Java
+281,4.3,GOFRUGAL Technologies,Java Developer - Intern,124608,3,Chennai,Intern,Java
+282,4.0,Colan Infotech,Java Developer,96000,3,Chennai,Full Time,Java
+283,3.4,Ravsoft Solutions,Java Developer,216000,3,Chennai,Full Time,Java
+284,4.5,Softlogic Systems,Java Developer,180000,3,Chennai,Full Time,Java
+285,4.1,Accenture,Java Developer,400000,2,Chennai,Full Time,Java
+286,4.1,IBM,Java Developer,372000,2,Chennai,Full Time,Java
+287,3.5,DXC Technology,Java Developer,300000,2,Chennai,Full Time,Java
+288,4.5,Zoho,Java Developer,468000,2,Chennai,Full Time,Java
+289,4.1,Hewlett Packard Enterprise | HPE,Java Developer,500000,2,Chennai,Full Time,Java
+290,4.0,Intellect Design Arena,Java Developer,324000,2,Chennai,Full Time,Java
+291,3.8,Servion Global Solutions,Java Developer,252000,2,Chennai,Full Time,Java
+292,3.7,AnywhereWorks,Java Developer,132000,2,Chennai,Full Time,Java
+293,3.4,Solartis,Java Developer,312000,2,Chennai,Full Time,Java
+294,3.8,SRM Technologies,Java Developer,228000,2,Chennai,Full Time,Java
+295,3.9,Urjanet,Java Developer,360000,2,Chennai,Full Time,Java
+296,4.4,Surya Informatics,Java Developer,192000,2,Chennai,Full Time,Java
+297,3.8,FinaTel,Java Developer,204000,2,Chennai,Full Time,Java
+298,3.9,Spiro Solutions,Java Developer,96000,2,Chennai,Full Time,Java
+299,4.3,7Eleven Arthasastra Technology,Java Developer,144000,2,Chennai,Full Time,Java
+300,4.7,1 Crore Projects,Java Developer,144000,2,Chennai,Full Time,Java
+301,2.5,Intecminds,Java Developer,168000,2,Chennai,Full Time,Java
+302,3.8,Cognizant Technology Solutions,Java Developer,100000,1,Chennai,Full Time,Java
+303,3.6,Tech Mahindra,Java Developer,168000,1,Chennai,Full Time,Java
+304,4.5,Google,Java Developer,300000,1,Chennai,Full Time,Java
+305,4.2,Freelancer,Java Developer,348000,1,Chennai,Full Time,Java
+306,3.5,Atos-Syntel,Java Developer,300000,1,Chennai,Full Time,Java
+307,3.8,Tata Consultancy Services (North America),Java Developer,400000,1,Chennai,Full Time,Java
+308,3.8,CGI,Java Developer,300000,1,Chennai,Full Time,Java
+309,3.8,FIS,Java Developer,1200000,1,Chennai,Full Time,Java
+310,3.6,Atos,Java Developer,500000,1,Chennai,Full Time,Java
+311,3.9,CSC,Java Developer,400000,1,Chennai,Full Time,Java
+312,3.4,Newgen Software,Java Developer,600000,1,Chennai,Full Time,Java
+313,3.5,CSS Corporation,Java Developer,300000,1,Chennai,Full Time,Java
+314,4.1,TEKsystems,Java Developer,600000,1,Chennai,Full Time,Java
+315,4.1,PayPal,Java Developer - Contractor,1000000,1,Chennai,Contractor,Java
+316,3.6,Renault Nissan Technology & Business Centre,Java Developer,700000,1,Chennai,Full Time,Java
+317,3.9,Bharat Electronics,Java Developer,264000,1,Chennai,Full Time,Java
+318,4.3,Altimetrik,Java Developer,1800000,1,Chennai,Full Time,Java
+319,3.7,Microland,Java Developer Contractor,300000,1,Chennai,Contractor,Java
+320,3.7,Fujitsu,Java Developer,1100000,1,Chennai,Full Time,Java
+321,4.5,IIT Madras,Java Developer,300000,1,Chennai,Full Time,Java
+322,3.9,Photon,Java Developer,1100000,1,Chennai,Full Time,Java
+323,4.1,Capgemini Invent,Java Developer,348000,1,Chennai,Full Time,Java
+324,3.1,Infoview Technologies Pvt Limited,Java Developer,900000,1,Chennai,Full Time,Java
+325,3.8,Polaris FT,Java Developer,516000,1,Chennai,Full Time,Java
+326,3.8,Ramco Systems,Java Developer,1300000,1,Chennai,Full Time,Java
+327,4.1,Tata,Java Developer,396000,1,Chennai,Full Time,Java
+328,3.7,Mahindra Satyam,Java Developer,408000,1,Chennai,Full Time,Java
+329,3.6,HTC Global Services,Java Developer,240000,1,Chennai,Full Time,Java
+330,3.3,Magna Infotech,Java Developer,700000,1,Chennai,Full Time,Java
+331,3.8,2COMS,Java Developer,1000000,1,Chennai,Full Time,Java
+332,3.7,Diverse Lynx,Java Developer,800000,1,Chennai,Full Time,Java
+333,4.4,Ideas2IT,Java Developer,500000,1,Chennai,Full Time,Java
+334,3.9,ACL Digital,Java Developer,900000,1,Chennai,Full Time,Java
+335,3.1,Financial Software & Systems,Java Developer,400000,1,Chennai,Full Time,Java
+336,4.0,Amara Raja,Java Developer,564000,1,Chennai,Full Time,Java
+337,4.2,Lister Technologies,Java Developer,800000,1,Chennai,Full Time,Java
+338,4.3,Josh Technology Group,Java Developer,264000,1,Chennai,Full Time,Java
+339,4.2,Startup,Java Developer,300000,1,Chennai,Full Time,Java
+340,3.7,Kumaran Systems,Java Developer,200000,1,Chennai,Full Time,Java
+341,3.9,Object Frontier,Java Developer,800000,1,Chennai,Full Time,Java
+342,3.9,Dun & Bradstreet,Java Developer,600000,1,Chennai,Full Time,Java
+343,4.2,JAVA,Java Developer Contractor,264000,1,Chennai,Contractor,Java
+344,4.0,Bahwan CyberTek,Java Developer,180000,1,Chennai,Full Time,Java
+345,3.7,Experis,Java Developer,500000,1,Chennai,Full Time,Java
+346,3.2,Volante Technologies,Java Developer,400000,1,Chennai,Full Time,Java
+347,3.9,Urjanet,Java Developer - Intern,180000,1,Chennai,Intern,Java
+348,4.2,Arjun,Java Developer,180000,1,Chennai,Full Time,Java
+349,3.5,Chain-Sys,Java Developer,144000,1,Chennai,Full Time,Java
+350,3.6,Suresh Surana & Associates,Java Developer,400000,1,Chennai,Full Time,Java
+351,3.5,AVASOFT,Java Developer,204000,1,Chennai,Full Time,Java
+352,4.3,CBSI Global,Java Developer - Contractor,600000,1,Chennai,Contractor,Java
+353,4.0,NewtGlobal,Java Developer,100000,1,Chennai,Full Time,Java
+354,4.2,Royal Cyber Inc.,Java Developer,400000,1,Chennai,Full Time,Java
+355,3.5,SysArc Infomatix,Java Developer,1000000,1,Chennai,Full Time,Java
+356,3.8,Antal International,Java Developer,300000,1,Chennai,Full Time,Java
+357,4.4,NIC,Java Developer,300000,1,Chennai,Full Time,Java
+358,4.1,DTCC,Java Developer,500000,1,Chennai,Full Time,Java
+359,3.3,Ninestars Information Technologies,Java Developer,200000,1,Chennai,Full Time,Java
+360,3.3,Infosys,Test Engineer,1104000,361,Hyderabad,Full Time,Testing
+361,4.1,Cigniti Inc.,Test Engineer,200000,42,Hyderabad,Full Time,Testing
+362,3.8,Wipro,Test Engineer,200000,37,Hyderabad,Full Time,Testing
+363,3.9,Tata Consultancy Services,Test Engineer,200000,35,Hyderabad,Full Time,Testing
+364,3.7,ZenQ,Test Engineer,200000,26,Hyderabad,Full Time,Testing
+365,4.0,Ivy,Test Engineer,400000,25,Hyderabad,Full Time,Testing
+366,4.1,Accenture,Test Engineer,200000,24,Hyderabad,Full Time,Testing
+367,3.6,Tech Mahindra,Test Engineer,300000,18,Hyderabad,Full Time,Testing
+368,3.8,AVEVA,Test Engineer,300000,18,Hyderabad,Full Time,Testing
+369,3.8,Capgemini,Test Engineer,400000,12,Hyderabad,Full Time,Testing
+370,4.1,Test,Test Engineer,888000,11,Hyderabad,Full Time,Testing
+371,3.8,Cognizant Technology Solutions,Test Engineer,200000,11,Hyderabad,Full Time,Testing
+372,3.7,HCL Technologies,Test Engineer,200000,11,Hyderabad,Full Time,Testing
+373,3.6,Pole To Win,Test Engineer,180000,9,Hyderabad,Full Time,Testing
+374,3.8,Wipro Technologies,Test Engineer,200000,9,Hyderabad,Full Time,Testing
+375,3.7,UnitedHealth Group,Test Engineer,500000,9,Hyderabad,Full Time,Testing
+376,3.6,Prolifics,Test Engineer,300000,9,Hyderabad,Full Time,Testing
+377,3.8,CGI,Test Engineer,100000,8,Hyderabad,Full Time,Testing
+378,4.1,IBM,Test Engineer,100000,7,Hyderabad,Full Time,Testing
+379,3.9,Oracle,Test Engineer,100000,6,Hyderabad,Full Time,Testing
+380,4.0,ValueLabs,Test Engineer,200000,6,Hyderabad,Full Time,Testing
+381,3.6,Pole To Win,Test Engineer - Contractor,200000,5,Hyderabad,Contractor,Testing
+382,3.5,DXC Technology,Test Engineer,100000,5,Hyderabad,Full Time,Testing
+383,3.9,CSC,Test Engineer,100000,5,Hyderabad,Full Time,Testing
+384,3.8,Teradata,Test Engineer,100000,5,Hyderabad,Full Time,Testing
+385,3.7,Optum,Test Engineer,200000,5,Hyderabad,Full Time,Testing
+386,3.4,Marquistech,Test Engineer,300000,4,Hyderabad,Full Time,Testing
+387,3.6,Infosys BPM,Test Engineer,400000,4,Hyderabad,Full Time,Testing
+388,3.2,Qvantel,Test Engineer,600000,4,Hyderabad,Full Time,Testing
+389,4.1,Fresher,Test Engineer,180000,4,Hyderabad,Full Time,Testing
+390,4.0,TCS,Test Engineer,200000,4,Hyderabad,Full Time,Testing
+391,3.7,Birlasoft,Test Engineer,200000,4,Hyderabad,Full Time,Testing
+392,4.1,Accolite Digital,Test Engineer,100000,4,Hyderabad,Full Time,Testing
+393,4.5,Google,Test Engineer,600000,4,Hyderabad,Full Time,Testing
+394,4.1,Qualcomm,Test Engineer,300000,4,Hyderabad,Full Time,Testing
+395,4.7,A&A Innovative Solutions,Test Engineer,500000,3,Hyderabad,Full Time,Testing
+396,3.8,EdgeVerve Systems,Test Engineer,600000,3,Hyderabad,Full Time,Testing
+397,3.1,TES Engineering,Test Engineer,400000,3,Hyderabad,Full Time,Testing
+398,4.1,Tester Work,Test Engineer,180000,3,Hyderabad,Full Time,Testing
+399,4.6,Enhops,Test Engineer,200000,3,Hyderabad,Full Time,Testing
+400,3.7,mroads,Test Engineer,300000,3,Hyderabad,Full Time,Testing
+401,3.6,IMImobile,Test Engineer,100000,3,Hyderabad,Full Time,Testing
+402,4.0,Deloitte,Test Engineer,100000,3,Hyderabad,Full Time,Testing
+403,2.9,Pervacio,Test Engineer,192000,3,Hyderabad,Full Time,Testing
+404,3.9,DBS Bank,Test Engineer,1000000,3,Hyderabad,Full Time,Testing
+405,3.5,Memorex,Test Engineer,300000,3,Hyderabad,Full Time,Testing
+406,4.0,Optum Global Solutions,Test Engineer,900000,3,Hyderabad,Full Time,Testing
+407,4.4,vSplash Techlabs,Test Engineer,300000,3,Hyderabad,Full Time,Testing
+408,4.1,Kony,Test Engineer,684000,3,Hyderabad,Full Time,Testing
+409,3.9,Franklin Templeton Investments,Test Engineer,800000,3,Hyderabad,Full Time,Testing
+410,3.6,Tech Mahindra,Test Engineer - Contractor,500000,3,Hyderabad,Contractor,Testing
+411,3.8,Yash Technologies,Test Engineer,500000,3,Hyderabad,Full Time,Testing
+412,3.5,Netxcell,Test Engineer,300000,3,Hyderabad,Full Time,Testing
+413,3.9,test,Test Engineer,300000,3,Hyderabad,Full Time,Testing
+414,3.8,ValueMomentum,Test Engineer,600000,3,Hyderabad,Full Time,Testing
+415,2.8,TecFinics,Test Engineer,100000,2,Hyderabad,Full Time,Testing
+416,4.2,VotaryTech,Test Engineer,132000,2,Hyderabad,Full Time,Testing
+417,4.4,UV Infratech Systems,Test Engineer,500000,2,Hyderabad,Full Time,Testing
+418,3.3,Infosys,Test Engineer - Contractor,200000,2,Hyderabad,Contractor,Testing
+419,4.0,ADP,Test Engineer,972000,2,Hyderabad,Full Time,Testing
+420,3.8,Wipro,Test Engineer,300000,2,Hyderabad,Full Time,Testing
+421,3.8,TIBCO Software,Test Engineer,1000000,2,Hyderabad,Full Time,Testing
+422,4.0,Deloitte,Test Engineer Contractor,576000,2,Hyderabad,Contractor,Testing
+423,4.2,People Link Unified Communications,Test Engineer,300000,2,Hyderabad,Full Time,Testing
+424,3.9,Tata Consultancy Services,Test Engineer,100000,2,Hyderabad,Full Time,Testing
+425,3.7,Mahindra Satyam,Test Engineer,540000,2,Hyderabad,Full Time,Testing
+426,4.3,Fresher,Test Engineer,300000,2,Hyderabad,Full Time,Testing
+427,3.9,Broadridge,Test Engineer,500000,2,Hyderabad,Full Time,Testing
+428,3.8,Anonymous Content,Test Engineer,500000,2,Hyderabad,Full Time,Testing
+429,4.9,QO-BOX,Test Engineer,200000,2,Hyderabad,Full Time,Testing
+430,4.1,Test,Test Engineer - Contractor,300000,2,Hyderabad,Contractor,Testing
+431,4.1,Rythmos,Test Engineer,300000,2,Hyderabad,Full Time,Testing
+432,4.3,AGS Infotech limited,Test Engineer,312000,2,Hyderabad,Full Time,Testing
+433,4.1,Planon,Test Engineer,700000,2,Hyderabad,Full Time,Testing
+434,3.7,NCR,Test Engineer,432000,2,Hyderabad,Full Time,Testing
+435,4.2,Freelancer,Test Engineer,400000,2,Hyderabad,Full Time,Testing
+436,4.1,Test,Test Engineer - Intern,100000,2,Hyderabad,Intern,Testing
+437,4.4,V-Soft Consulting Group,Test Engineer,300000,2,Hyderabad,Full Time,Testing
+438,3.2,Volante Technologies,Test Engineer,288000,2,Hyderabad,Full Time,Testing
+439,3.8,Attra,Test Engineer,400000,2,Hyderabad,Full Time,Testing
+440,4.1,Test,Test Engineer,120000,2,Hyderabad,Full Time,Testing
+441,3.7,Aditya Enterprises,Test Engineer,144000,2,Hyderabad,Full Time,Testing
+442,4.0,Dhatri Info Solutions,Test Engineer,204000,2,Hyderabad,Full Time,Testing
+443,3.9,XYZ (Turkey),Test Engineer,120000,2,Hyderabad,Full Time,Testing
+444,4.3,Pactera,Test Engineer,800000,2,Hyderabad,Full Time,Testing
+445,4.4,Artha Net Support Centre,Test Engineer,400000,2,Hyderabad,Full Time,Testing
+446,3.6,Agility,Test Engineer,200000,2,Hyderabad,Full Time,Testing
+447,4.0,Smarts Choice It Technologies Solutions,Test Engineer,540000,2,Hyderabad,Full Time,Testing
+448,4.4,Promaestro Techsource,Test Engineer,500000,2,Hyderabad,Full Time,Testing
+449,3.0,Intertek,Test Engineer,200000,2,Hyderabad,Full Time,Testing
+450,3.6,Snyxius,IOS Developer,300000,2,Bangalore,Full Time,IOS
+451,4.1,Krafty Solutions,IOS Developer,100000,2,Bangalore,Full Time,IOS
+452,4.0,PurpleSense Digital Solutions,IOS Developer,240000,2,Bangalore,Full Time,IOS
+453,3.8,Cognizant Technology Solutions,IOS Developer,900000,1,Bangalore,Full Time,IOS
+454,3.8,LTI,IOS Developer,144000,1,Bangalore,Full Time,IOS
+455,3.7,Mphasis,IOS Developer,500000,1,Bangalore,Full Time,IOS
+456,3.8,Honeywell,IOS Developer,700000,1,Bangalore,Full Time,IOS
+457,4.4,SAP,IOS Developer Contractor,612000,1,Bangalore,Contractor,IOS
+458,4.1,Robert Bosch India,IOS Developer,500000,1,Bangalore,Full Time,IOS
+459,3.8,Paytm,IOS Developer,400000,1,Bangalore,Full Time,IOS
+460,3.7,ITC Infotech,IOS Developer,1100000,1,Bangalore,Full Time,IOS
+461,3.4,IBM India,IOS Developer,400000,1,Bangalore,Full Time,IOS
+462,3.9,IQVIA,IOS Developer,600000,1,Bangalore,Full Time,IOS
+463,3.6,KPIT Technologies,IOS Developer,900000,1,Bangalore,Full Time,IOS
+464,3.9,HARMAN,IOS Developer,700000,1,Bangalore,Full Time,IOS
+465,3.8,Thomson Reuters,IOS Developer,1000000,1,Bangalore,Full Time,IOS
+466,3.9,Verizon,IOS Developer,768000,1,Bangalore,Full Time,IOS
+467,3.9,Verizon,IOS Developer - Contractor,1700000,1,Bangalore,Contractor,IOS
+468,3.3,Ola,IOS Developer,2300000,1,Bangalore,Full Time,IOS
+469,3.3,Walmart,IOS Developer,600000,1,Bangalore,Full Time,IOS
+470,4.1,Test,IOS Developer,696000,1,Bangalore,Full Time,IOS
+471,4.3,Altimetrik,IOS Developer,600000,1,Bangalore,Full Time,IOS
+472,3.7,NIIT,IOS Developer,200000,1,Bangalore,Full Time,IOS
+473,3.9,Brillio,IOS Developer,400000,1,Bangalore,Full Time,IOS
+474,4.2,Apple,IOS Developer,252000,1,Bangalore,Full Time,IOS
+475,3.4,TeamLease Staffing Solutions,IOS Developer,500000,1,Bangalore,Full Time,IOS
+476,4.2,Allstate India,IOS Developer,400000,1,Bangalore,Full Time,IOS
+477,5.0,Talent Zone Consultants,IOS Developer,400000,1,Bangalore,Full Time,IOS
+478,4.0,Directi,IOS Developer,900000,1,Bangalore,Full Time,IOS
+479,3.7,Diverse Lynx,IOS Developer,800000,1,Bangalore,Full Time,IOS
+480,3.9,Bookmyshow,IOS Developer,804000,1,Bangalore,Full Time,IOS
+481,3.9,Chandigarh University,IOS Developer - Intern,1047552,1,Bangalore,Intern,IOS
+482,3.9,Landmark Group,IOS Developer,100000,1,Bangalore,Full Time,IOS
+483,4.0,smartData Enterprises,IOS Developer,400000,1,Bangalore,Full Time,IOS
+484,3.3,Sears,IOS Developer,1400000,1,Bangalore,Full Time,IOS
+485,4.4,Gojek,IOS Developer,2100000,1,Bangalore,Full Time,IOS
+486,3.7,EVRY India,IOS Developer,500000,1,Bangalore,Full Time,IOS
+487,3.1,Kuliza Technology,IOS Developer - Intern,264000,1,Bangalore,Intern,IOS
+488,3.8,Mobile Programming,IOS Developer,200000,1,Bangalore,Full Time,IOS
+489,4.2,Goibibo,IOS Developer,1200000,1,Bangalore,Full Time,IOS
+490,4.1,FreeCharge,IOS Developer,2400000,1,Bangalore,Full Time,IOS
+491,4.2,Hike,IOS Developer,2200000,1,Bangalore,Full Time,IOS
+492,3.9,Synchronoss,IOS Developer,1000000,1,Bangalore,Full Time,IOS
+493,4.1,Rao IIT Academy,IOS Developer,324000,1,Bangalore,Full Time,IOS
+494,3.8,DynPro,IOS Developer,800000,1,Bangalore,Full Time,IOS
+495,3.7,JoulestoWatts Business Solutions,IOS Developer,1600000,1,Bangalore,Full Time,IOS
+496,3.3,Genisys Group,IOS Developer,1500000,1,Bangalore,Full Time,IOS
+497,4.5,Unnati,IOS Developer,700000,1,Bangalore,Full Time,IOS
+498,3.3,Time Inc.,IOS Developer,900000,1,Bangalore,Full Time,IOS
+499,4.0,Mantra Labs,IOS Developer,500000,1,Bangalore,Full Time,IOS
+500,4.0,Nuclei,IOS Developer - Intern,276000,1,Bangalore,Intern,IOS
+501,4.0,eMudhra,IOS Developer,192000,1,Bangalore,Full Time,IOS
+502,4.3,NiYO,IOS Developer,1700000,1,Bangalore,Full Time,IOS
+503,4.2,TechTree IT Systems,IOS Developer,300000,1,Bangalore,Full Time,IOS
+504,4.5,Housejoy,IOS Developer,600000,1,Bangalore,Full Time,IOS
+505,4.0,Softway,IOS Developer,216000,1,Bangalore,Full Time,IOS
+506,3.6,Zerone Consulting,IOS Developer,400000,1,Bangalore,Full Time,IOS
+507,4.3,Multi Recruit,IOS Developer,2700000,1,Bangalore,Full Time,IOS
+508,4.1,Falabella,IOS Developer,504000,1,Bangalore,Full Time,IOS
+509,3.9,Mobinius,IOS Developer,1200000,1,Bangalore,Full Time,IOS
+510,2.6,Carmatec,IOS Developer,500000,1,Bangalore,Full Time,IOS
+511,3.7,Apostek,IOS Developer,700000,1,Bangalore,Full Time,IOS
+512,4.3,CognitiveClouds,IOS Developer,800000,1,Bangalore,Full Time,IOS
+513,4.2,OM SOFTWARE,IOS Developer,400000,1,Bangalore,Full Time,IOS
+514,3.4,SHARP Software Development India,IOS Developer Contractor,100000,1,Bangalore,Contractor,IOS
+515,3.5,Airpush,IOS Developer,400000,1,Bangalore,Full Time,IOS
+516,3.7,TechJini,IOS Developer,1000000,1,Bangalore,Full Time,IOS
+517,4.3,SpurTree Technologies,IOS Developer,700000,1,Bangalore,Full Time,IOS
+518,4.6,Kristal.AI,IOS Developer,1500000,1,Bangalore,Full Time,IOS
+519,3.9,Inkoniq IT Solutions,IOS Developer,600000,1,Bangalore,Full Time,IOS
+520,3.9,Kirusa,IOS Developer,1200000,1,Bangalore,Full Time,IOS
+521,4.3,Klizo Solutions Pvt Ltd,IOS Developer,312000,1,Bangalore,Full Time,IOS
+522,4.2,Tipstat,IOS Developer,1152000,1,Bangalore,Full Time,IOS
+523,3.7,FuGenX Technologies,IOS Developer,800000,1,Bangalore,Full Time,IOS
+524,4.7,Scoop Technologies (India),IOS Developer,1300000,1,Bangalore,Full Time,IOS
+525,3.9,ThiDiff Technologies,IOS Developer,600000,1,Bangalore,Full Time,IOS
+526,3.8,Enparadigm Performance Solutions,IOS Developer,984000,1,Bangalore,Full Time,IOS
+527,3.8,Globex Digital Solutions,IOS Developer,1400000,1,Bangalore,Full Time,IOS
+528,2.9,MMAD Apps,IOS Developer,120000,1,Bangalore,Full Time,IOS
+529,4.5,Codewave,IOS Developer,156000,1,Bangalore,Full Time,IOS
+530,3.9,Codebrahma,IOS Developer,1032000,1,Bangalore,Full Time,IOS
+531,4.3,Tech Active,IOS Developer Contractor,396000,1,Bangalore,Contractor,IOS
+532,4.3,Tech Active,IOS Developer,228000,1,Bangalore,Full Time,IOS
+533,2.7,KVC CONSULTANTS,IOS Developer,700000,1,Bangalore,Full Time,IOS
+534,3.7,Wisdomleaf Technologies,IOS Developer,700000,1,Bangalore,Full Time,IOS
+535,3.9,Perk,IOS Developer,1100000,1,Bangalore,Full Time,IOS
+536,4.1,Boston Technology Corporation,IOS Developer,500000,1,Bangalore,Full Time,IOS
+537,3.5,WebMobi,IOS Developer,600000,1,Bangalore,Full Time,IOS
+538,4.8,Henote Technologies,IOS Developer,500000,1,Bangalore,Full Time,IOS
+539,3.6,Nexplace Info,IOS Developer,564000,1,Bangalore,Full Time,IOS
+540,3.2,Shaw Academy,Backend Developer,500000,2,Bangalore,Full Time,Backend
+541,3.9,Synup,Backend Developer,700000,2,Bangalore,Full Time,Backend
+542,4.5,Money View,Backend Developer,1300000,2,Bangalore,Full Time,Backend
+543,3.9,Pixis,Backend Developer,192000,2,Bangalore,Full Time,Backend
+544,4.9,Quizizz,Backend Developer,2800000,2,Bangalore,Full Time,Backend
+545,4.1,Bang the Table,Backend Developer,800000,2,Bangalore,Full Time,Backend
+546,3.9,DigiCollect,Backend Developer,240000,2,Bangalore,Full Time,Backend
+547,4.5,Mindera,Backend Developer,1000000,2,Bangalore,Full Time,Backend
+548,4.4,Bytemark,Backend Developer,768000,2,Bangalore,Full Time,Backend
+549,3.2,BigApp,Backend Developer,264000,2,Bangalore,Full Time,Backend
+550,3.9,Tata Consultancy Services,Backend Developer - Intern,600000,1,Bangalore,Intern,Backend
+551,3.9,Tata Consultancy Services,Backend Developer,500000,1,Bangalore,Full Time,Backend
+552,3.8,Wipro,Backend Developer,600000,1,Bangalore,Full Time,Backend
+553,3.8,Amazon,Backend Developer,672000,1,Bangalore,Full Time,Backend
+554,3.8,Amazon,Backend Developer,2800000,1,Bangalore,Full Time,Backend
+555,3.7,HCL Technologies,Backend Developer,300000,1,Bangalore,Full Time,Backend
+556,4.1,IBM,Backend Developer - Contractor,1600000,1,Bangalore,Contractor,Backend
+557,4.0,Deloitte,Backend Developer,900000,1,Bangalore,Full Time,Backend
+558,3.7,BYJU'S,Backend Developer Contractor,168000,1,Bangalore,Contractor,Backend
+559,4.3,Cisco Systems,Backend Developer,1600000,1,Bangalore,Full Time,Backend
+560,3.9,Reliance Industries,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+561,3.8,Wipro Technologies,Backend Developer,360000,1,Bangalore,Full Time,Backend
+562,4.2,Freelancer,Backend Developer,500000,1,Bangalore,Full Time,Backend
+563,4.2,Freelancer,Backend Developer - Intern,480000,1,Bangalore,Intern,Backend
+564,3.8,Tata Consultancy Services (North America),Backend Developer,400000,1,Bangalore,Full Time,Backend
+565,4.0,DONE by NONE,Backend Developer - Intern,348000,1,Bangalore,Intern,Backend
+566,4.0,Goldman Sachs,Backend Developer,1700000,1,Bangalore,Full Time,Backend
+567,3.1,Samsung R&D Institute India - Bangalore,Backend Developer,1600000,1,Bangalore,Full Time,Backend
+568,4.0,Nones,Backend Developer,300000,1,Bangalore,Full Time,Backend
+569,3.8,Paytm,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+570,3.8,Paytm,Backend Developer - Intern,240000,1,Bangalore,Intern,Backend
+571,4.4,Adobe,Backend Developer,1700000,1,Bangalore,Full Time,Backend
+572,4.1,Hewlett Packard Enterprise | HPE,Backend Developer,300000,1,Bangalore,Full Time,Backend
+573,3.7,ITC Infotech,Backend Developer,1200000,1,Bangalore,Full Time,Backend
+574,4.1,EMPLOYERS,Backend Developer,600000,1,Bangalore,Full Time,Backend
+575,4.3,VMware,Backend Developer,800000,1,Bangalore,Full Time,Backend
+576,4.1,Swiggy,Backend Developer,1900000,1,Bangalore,Full Time,Backend
+577,3.7,Optum,Backend Developer - Intern,228000,1,Bangalore,Intern,Backend
+578,3.3,Ola,Backend Developer,2200000,1,Bangalore,Full Time,Backend
+579,4.1,Other,Backend Developer,500000,1,Bangalore,Full Time,Backend
+580,3.4,Vedantu,Backend Developer,2600000,1,Bangalore,Full Time,Backend
+581,4.1,[24]7.ai,Backend Developer,800000,1,Bangalore,Full Time,Backend
+582,4.1,TEKsystems,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+583,4.0,Aditya Birla Group,Backend Developer,400000,1,Bangalore,Full Time,Backend
+584,3.9,XYZ (Turkey),Backend Developer,1200000,1,Bangalore,Full Time,Backend
+585,3.5,IDFC First Bank,Backend Developer,800000,1,Bangalore,Full Time,Backend
+586,4.4,SelfEmployed.com,Backend Developer,500000,1,Bangalore,Full Time,Backend
+587,4.3,Altimetrik,Backend Developer,700000,1,Bangalore,Full Time,Backend
+588,3.7,Infinite Computer Solutions,Backend Developer,400000,1,Bangalore,Full Time,Backend
+589,4.0,Practo Technologies,Backend Developer,800000,1,Bangalore,Full Time,Backend
+590,4.5,ServiceNow,Backend Developer,500000,1,Bangalore,Full Time,Backend
+591,3.6,Home Credit India,Backend Developer,300000,1,Bangalore,Full Time,Backend
+592,4.2,Nutanix,Backend Developer - Intern,100000,1,Bangalore,Intern,Backend
+593,4.1,Xebia,Backend Developer,500000,1,Bangalore,Full Time,Backend
+594,3.7,NoBroker,Backend Developer,600000,1,Bangalore,Full Time,Backend
+595,3.7,QA InfoTech,Backend Developer - Intern,96000,1,Bangalore,Intern,Backend
+596,4.3,Tally Solutions,Backend Developer,700000,1,Bangalore,Full Time,Backend
+597,3.9,Bookmyshow,Backend Developer,1500000,1,Bangalore,Full Time,Backend
+598,4.3,Accion Labs,Backend Developer,400000,1,Bangalore,Full Time,Backend
+599,4.1,HealthifyMe,Backend Developer - Intern,228000,1,Bangalore,Intern,Backend
+600,3.7,Treebo Hotels,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+601,4.1,Dunzo,Backend Developer - Intern,576000,1,Bangalore,Intern,Backend
+602,4.1,MountBlue Technologies,Backend Developer,300000,1,Bangalore,Full Time,Backend
+603,3.6,Trell,Backend Developer,1300000,1,Bangalore,Full Time,Backend
+604,4.5,ZestMoney,Backend Developer,1500000,1,Bangalore,Full Time,Backend
+605,4.3,Slide Inc,Backend Developer,3800000,1,Bangalore,Full Time,Backend
+606,4.3,Student,Backend Developer,372000,1,Bangalore,Full Time,Backend
+607,3.4,Newfold Digital,Backend Developer,1400000,1,Bangalore,Full Time,Backend
+608,3.7,Paytm Money,Backend Developer,800000,1,Bangalore,Full Time,Backend
+609,4.4,Web-Designer,Backend Developer,300000,1,Bangalore,Full Time,Backend
+610,3.9,The Others,Backend Developer,500000,1,Bangalore,Full Time,Backend
+611,3.9,Impact Analytics,Backend Developer,900000,1,Bangalore,Full Time,Backend
+612,3.5,ASDA,Backend Developer,200000,1,Bangalore,Full Time,Backend
+613,4.3,Grab,Backend Developer,2400000,1,Bangalore,Full Time,Backend
+614,3.7,Karan,Backend Developer,800000,1,Bangalore,Full Time,Backend
+615,3.9,mfine,Backend Developer,1700000,1,Bangalore,Full Time,Backend
+616,3.6,RWS Group,Backend Developer,600000,1,Bangalore,Full Time,Backend
+617,3.8,HungerBox,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+618,4.1,Neustar,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+619,3.9,OLX People,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+620,4.4,smallcase,Backend Developer,1300000,1,Bangalore,Full Time,Backend
+621,4.4,Pratilipi,Backend Developer,1000000,1,Bangalore,Full Time,Backend
+622,3.7,MoneyTap,Backend Developer,200000,1,Bangalore,Full Time,Backend
+623,3.1,RLabs Enterprise Services,Backend Developer,408000,1,Bangalore,Full Time,Backend
+624,4.0,Avail Finance,Backend Developer,2100000,1,Bangalore,Full Time,Backend
+625,4.0,Digité,Backend Developer - Intern,228000,1,Bangalore,Intern,Backend
+626,3.6,Halodoc,Backend Developer,800000,1,Bangalore,Full Time,Backend
+627,4.6,Joveo,Backend Developer,1400000,1,Bangalore,Full Time,Backend
+628,3.8,Cyware,Backend Developer,1100000,1,Bangalore,Full Time,Backend
+629,4.5,CRED,Backend Developer - Intern,696000,1,Bangalore,Intern,Backend
+630,3.0,Softech ERP Solutions,"PHP development, Full Stack Web Developer/Web Designer - Intern",126000,1,Kolkata,Intern,Web
+631,3.9,Tata Consultancy Services,Web Developer,200000,30,Bangalore,Full Time,Web
+632,3.7,Indegene,Web Developer,100000,18,Bangalore,Full Time,Web
+633,4.1,First Student,Web Developer,100000,16,Bangalore,Full Time,Web
+634,4.1,Fresher,Web Developer,240000,14,Bangalore,Full Time,Web
+635,3.8,Cognizant Technology Solutions,Web Developer,300000,13,Bangalore,Full Time,Web
+636,3.3,Infosys,Web Developer,200000,12,Bangalore,Full Time,Web
+637,4.1,IBM,Web Developer,200000,12,Bangalore,Full Time,Web
+638,3.8,Wipro,Web Developer,200000,10,Bangalore,Full Time,Web
+639,3.8,Thomson Reuters,Web Developer,300000,9,Bangalore,Full Time,Web
+640,4.1,Accenture,Web Developer,400000,8,Bangalore,Full Time,Web
+641,3.8,Amazon,Web Developer,100000,8,Bangalore,Full Time,Web
+642,4.0,Lenovo,Web Developer,500000,7,Bangalore,Full Time,Web
+643,4.3,Web Developers India,Web Developer,300000,6,Bangalore,Full Time,Web
+644,3.4,HappLabs,Web Developer,1152000,6,Bangalore,Full Time,Web
+645,3.9,Tatneft,Web Developer,200000,6,Bangalore,Full Time,Web
+646,4.6,Giridhara Software Services,Web Developer,300000,6,Bangalore,Full Time,Web
+647,4.2,Freelancer,Web Developer,200000,5,Bangalore,Full Time,Web
+648,4.5,Google,Web Developer,300000,5,Bangalore,Full Time,Web
+649,4.1,[24]7.ai,Web Developer,300000,5,Bangalore,Full Time,Web
+650,3.9,Armentum,Web Developer,300000,4,Bangalore,Full Time,Web
+651,3.6,Tech Mahindra,Web Developer,300000,4,Bangalore,Full Time,Web
+652,4.4,Innohub Technologies,Web Developer,192000,4,Bangalore,Full Time,Web
+653,4.1,Adjetter,Web Developer,180000,4,Bangalore,Full Time,Web
+654,3.7,ITC Infotech,Web Developer,400000,4,Bangalore,Full Time,Web
+655,3.7,Inpetro Technologies,Web Developer,192000,4,Bangalore,Full Time,Web
+656,4.3,Fresher,Web Developer,300000,4,Bangalore,Full Time,Web
+657,3.3,Webhelp,Web Developer,96000,4,Bangalore,Full Time,Web
+658,3.9,Oracle,Web Developer,200000,4,Bangalore,Full Time,Web
+659,3.3,Octact Solutions,Web Developer,120000,4,Bangalore,Full Time,Web
+660,4.0,Mindtree,Web Developer,200000,3,Bangalore,Full Time,Web
+661,3.1,Kuliza Technology,Web Developer,700000,3,Bangalore,Full Time,Web
+662,4.5,Web Development India,Web Developer,200000,3,Bangalore,Full Time,Web
+663,3.7,Mphasis,Web Developer,500000,3,Bangalore,Full Time,Web
+664,3.8,Wipro Digital,Web Developer,500000,3,Bangalore,Full Time,Web
+665,4.1,First Student,Web Developer - Intern,60000,3,Bangalore,Intern,Web
+666,4.3,Exposys Data Labs,Web Developer - Intern,384000,3,Bangalore,Intern,Web
+667,4.4,Renavo Technologies,Web Developer,200000,3,Bangalore,Full Time,Web
+668,4.3,Fidelity Investments,Web Developer,156000,3,Bangalore,Full Time,Web
+669,3.9,Tata Consultancy Services,Web Developer,100000,3,Bangalore,Full Time,Web
+670,4.1,Position2,Web Developer,300000,3,Bangalore,Full Time,Web
+671,4.2,Brocade,Web Developer,1200000,3,Bangalore,Full Time,Web
+672,3.9,Tatneft,Web Developer - Intern,100000,3,Bangalore,Intern,Web
+673,2.9,DotMappers IT,Web Developer,400000,3,Bangalore,Full Time,Web
+674,3.6,Verbinden Communications,Web Developer,400000,3,Bangalore,Full Time,Web
+675,4.0,Lenovo,Web Developer - Intern,200000,3,Bangalore,Intern,Web
+676,4.4,Web-Designer,Web Developer,300000,3,Bangalore,Full Time,Web
+677,4.0,Freshers.com,Web Developer,100000,3,Bangalore,Full Time,Web
+678,3.5,EFI,Web Developer,500000,3,Bangalore,Full Time,Web
+679,4.4,Mentric Group,Web Developer,300000,3,Bangalore,Full Time,Web
+680,4.1,Bang the Table,Web Developer,800000,3,Bangalore,Full Time,Web
+681,4.0,Fresherworld.com,Web Developer,100000,3,Bangalore,Full Time,Web
+682,4.3,Codilar Technologies,Web Developer,252000,3,Bangalore,Full Time,Web
+683,3.8,Capgemini,Web Developer,400000,2,Bangalore,Full Time,Web
+684,4.1,Iglulabs Software,Web Developer,372000,2,Bangalore,Full Time,Web
+685,3.8,Altorum Leren,Web Developer,240000,2,Bangalore,Full Time,Web
+686,3.3,FinMitra,Web Developer,456000,2,Bangalore,Full Time,Web
+687,3.7,HCL Technologies,Web Developer,200000,2,Bangalore,Full Time,Web
+688,4.4,East Consultancy Services,Web Developer,348000,2,Bangalore,Full Time,Web
+689,4.3,IntelOra Resources & Developments,Web Developer,200000,2,Bangalore,Full Time,Web
+690,4.5,Style Tag,Web Developer,312000,2,Bangalore,Full Time,Web
+691,1.0,Syflani Technologies,Web Developer,72000,2,Bangalore,Full Time,Web
+692,4.6,Beyondweb,Web Developer,216000,2,Bangalore,Full Time,Web
+693,4.2,Im a fresher stop asking me,Web Developer,300000,2,Bangalore,Full Time,Web
+694,4.0,Wayzon,Web Developer,216000,2,Bangalore,Full Time,Web
+695,4.1,Social Beat,Web Developer,324000,2,Bangalore,Full Time,Web
+696,3.9,HARMAN,Web Developer,1152000,2,Bangalore,Full Time,Web
+697,4.2,Zinavo Technologies,Web Developer,120000,2,Bangalore,Full Time,Web
+698,3.9,ABC,Web Developer,168000,2,Bangalore,Full Time,Web
+699,4.0,Deloitte,Web Developer,700000,2,Bangalore,Full Time,Web
+700,4.3,Codolin Technologies,Web Developer,300000,2,Bangalore,Full Time,Web
+701,4.0,Mantra Labs,Web Developer,228000,2,Bangalore,Full Time,Web
+702,2.4,Arowana Consulting,Web Developer,528000,2,Bangalore,Full Time,Web
+703,4.2,Freelancer,Web Developer,122496,2,Bangalore,Full Time,Web
+704,3.5,WebMobi,Web Developer,60000,2,Bangalore,Full Time,Web
+705,3.9,LAIKA,Web Developer - Intern,300000,2,Bangalore,Intern,Web
+706,3.8,Empower,Web Developer,700000,2,Bangalore,Full Time,Web
+707,3.8,CGI,Web Developer,96000,2,Bangalore,Full Time,Web
+708,4.2,Freelancer,Web Developer,240000,2,Bangalore,Full Time,Web
+709,3.9,Sonata Software,Web Developer,636000,2,Bangalore,Full Time,Web
+710,3.9,Inkoniq IT Solutions,Web Developer,504000,2,Bangalore,Full Time,Web
+711,3.9,Tata Consultancy Services,Web Developer,300000,2,Bangalore,Full Time,Web
+712,4.7,Snipe Tech Pvt Ltd.,Web Developer,228000,2,Bangalore,Full Time,Web
+713,4.0,ZaranTech,Web Developer,444000,2,Bangalore,Full Time,Web
+714,4.3,Vmoksha Technologies,Web Developer,288000,2,Bangalore,Full Time,Web
+715,5.0,Scwebs,Web Developer,192000,2,Bangalore,Full Time,Web
+716,3.3,Kenscio,Web Developer,200000,2,Bangalore,Full Time,Web
+717,2.2,India1cart & Mart,Web Developer,240000,2,Bangalore,Full Time,Web
+718,4.2,HP Inc.,Web Developer,200000,2,Bangalore,Full Time,Web
+719,3.8,Mercedes-Benz Research and Development India,Web Developer,1000000,2,Bangalore,Full Time,Web
+720,3.9,Tata Consultancy Services,Python Developer,200000,26,Bangalore,Full Time,Python
+721,3.8,Wipro,Python Developer,200000,10,Bangalore,Full Time,Python
+722,3.8,Capgemini,Python Developer,300000,9,Bangalore,Full Time,Python
+723,3.3,Infosys,Python Developer,200000,8,Bangalore,Full Time,Python
+724,4.1,Fresher,Python Developer,120000,7,Bangalore,Full Time,Python
+725,3.8,Cognizant Technology Solutions,Python Developer,300000,6,Bangalore,Full Time,Python
+726,4.1,Accenture,Python Developer,100000,6,Bangalore,Full Time,Python
+727,4.8,Python Software Foundation,Python Developer,252000,6,Bangalore,Full Time,Python
+728,4.0,Fresherworld.com,Python Developer,200000,5,Bangalore,Full Time,Python
+729,3.7,Mphasis,Python Developer,300000,4,Bangalore,Full Time,Python
+730,4.1,First Student,Python Developer,300000,3,Bangalore,Full Time,Python
+731,4.0,Mindtree,Python Developer,84000,3,Bangalore,Full Time,Python
+732,4.0,TCS,Python Developer,192000,3,Bangalore,Full Time,Python
+733,4.0,UST,Python Developer,500000,3,Bangalore,Full Time,Python
+734,4.3,Fresher,Python Developer,400000,3,Bangalore,Full Time,Python
+735,3.8,3Embed Software Technologies,Python Developer,200000,3,Bangalore,Full Time,Python
+736,4.6,Palle Technology,Python Developer,120000,3,Bangalore,Full Time,Python
+737,2.4,Praktice Ai,Python Developer - Intern,276000,3,Bangalore,Intern,Python
+738,3.9,Tata Consultancy Services,Python Developer,120000,2,Bangalore,Full Time,Python
+739,4.1,IBM,Python Developer,360000,2,Bangalore,Full Time,Python
+740,3.9,Genpact,Python Developer,700000,2,Bangalore,Full Time,Python
+741,3.5,DXC Technology,Python Developer,400000,2,Bangalore,Full Time,Python
+742,3.8,CGI,Python Developer,500000,2,Bangalore,Full Time,Python
+743,4.1,Robert Bosch India,Python Developer,216000,2,Bangalore,Full Time,Python
+744,4.0,Nones,Python Developer,700000,2,Bangalore,Full Time,Python
+745,4.0,Freshers.com,Python Developer,180000,2,Bangalore,Full Time,Python
+746,3.9,ABCDEF,Python Developer,400000,2,Bangalore,Full Time,Python
+747,4.3,Fresher Than Fresh,Python Developer,180000,2,Bangalore,Full Time,Python
+748,3.9,Kyndryl,Python Developer,400000,2,Bangalore,Full Time,Python
+749,4.0,Infiniti Research,Python Developer,396000,2,Bangalore,Full Time,Python
+750,4.3,Accion Labs,Python Developer,800000,2,Bangalore,Full Time,Python
+751,3.8,Trigent Software,Python Developer - Contractor,500000,2,Bangalore,Contractor,Python
+752,3.9,ASM Technologies,Python Developer,288000,2,Bangalore,Full Time,Python
+753,4.4,Knowledge Lens,Python Developer,360000,2,Bangalore,Full Time,Python
+754,4.9,Fyers,Python Developer,300000,2,Bangalore,Full Time,Python
+755,3.9,Brisa Technologies,Python Developer - Intern,132000,2,Bangalore,Intern,Python
+756,3.1,Bluebird Soft,Python Developer - Intern,228000,2,Bangalore,Intern,Python
+757,4.1,Satyukt,Python Developer - Intern,144000,2,Bangalore,Intern,Python
+758,3.9,Tata Consultancy Services,Python Developer,500000,1,Bangalore,Full Time,Python
+759,3.3,Infosys,Python Developer,300000,1,Bangalore,Full Time,Python
+760,4.1,Accenture,Python Developer Contractor,528000,1,Bangalore,Contractor,Python
+761,3.7,HCL Technologies,Python Developer,800000,1,Bangalore,Full Time,Python
+762,4.0,Deloitte,Python Developer,900000,1,Bangalore,Full Time,Python
+763,3.6,Tech Mahindra,Python Developer,500000,1,Bangalore,Full Time,Python
+764,3.9,Oracle,Python Developer,1000000,1,Bangalore,Full Time,Python
+765,3.9,EY,Python Developer,700000,1,Bangalore,Full Time,Python
+766,4.1,First Student,Python Developer - Intern,600000,1,Bangalore,Intern,Python
+767,4.1,Fresher,Python Developer - Intern,120000,1,Bangalore,Intern,Python
+768,3.9,KPMG,Python Developer,1500000,1,Bangalore,Full Time,Python
+769,4.3,Dell Technologies,Python Developer,600000,1,Bangalore,Full Time,Python
+770,3.9,ABC,Python Developer,300000,1,Bangalore,Full Time,Python
+771,4.3,Cisco Systems,Python Developer - Contractor,1200000,1,Bangalore,Contractor,Python
+772,4.5,Google,Python Developer,228000,1,Bangalore,Full Time,Python
+773,4.5,Google,Python Developer,500000,1,Bangalore,Full Time,Python
+774,3.9,Reliance Industries,Python Developer,500000,1,Bangalore,Full Time,Python
+775,3.8,Wipro Technologies,Python Developer,400000,1,Bangalore,Full Time,Python
+776,4.2,Freelancer,Python Developer,228000,1,Bangalore,Full Time,Python
+777,3.8,Tata Consultancy Services (North America),Python Developer,400000,1,Bangalore,Full Time,Python
+778,3.8,NTT DATA,Python Developer,800000,1,Bangalore,Full Time,Python
+779,4.0,DONE by NONE,Python Developer,300000,1,Bangalore,Full Time,Python
+780,3.8,CGI,Python Developer - Intern,240000,1,Bangalore,Intern,Python
+781,3.8,FIS,Python Developer,800000,1,Bangalore,Full Time,Python
+782,3.5,L&T Technology Services,Python Developer,700000,1,Bangalore,Full Time,Python
+783,4.0,Nones,Python Developer,288000,1,Bangalore,Full Time,Python
+784,4.1,Siemens,Python Developer - Contractor,300000,1,Bangalore,Contractor,Python
+785,4.5,Zoho,Python Developer,900000,1,Bangalore,Full Time,Python
+786,3.7,ITC Infotech,Python Developer,1100000,1,Bangalore,Full Time,Python
+787,3.9,IQVIA,Python Developer,396000,1,Bangalore,Full Time,Python
+788,4.1,EMPLOYERS,Python Developer,300000,1,Bangalore,Full Time,Python
+789,3.8,Sutherland,Python Developer,46464,1,Bangalore,Full Time,Python
+790,4.2,YES,Python Developer,400000,1,Bangalore,Full Time,Python
+791,3.6,Société Générale,Python Developer,504000,1,Bangalore,Full Time,Python
+792,4.0,Fresherworld.com,Python Developer,200000,1,Bangalore,Full Time,Python
+793,4.3,Fresher,Python Developer - Intern,348000,1,Bangalore,Intern,Python
+794,3.8,Anonymous Content,Python Developer,600000,1,Bangalore,Full Time,Python
+795,3.4,Vedantu,Python Developer - Intern,1000000,1,Bangalore,Intern,Python
+796,4.0,ABB,Python Developer - Intern,100000,1,Bangalore,Intern,Python
+797,3.7,Huawei Technologies,Python Developer,300000,1,Bangalore,Full Time,Python
+798,4.1,Shell,Python Developer - Intern,100000,1,Bangalore,Intern,Python
+799,4.0,Legato Health Technologies,Python Developer,500000,1,Bangalore,Full Time,Python
+800,4.1,TEKsystems,Python Developer,300000,1,Bangalore,Full Time,Python
+801,4.3,Current,Python Developer,228000,1,Bangalore,Full Time,Python
+802,3.9,EPAM Systems,Python Developer,3000000,1,Bangalore,Full Time,Python
+803,3.8,Wipro Digital,Python Developer,700000,1,Bangalore,Full Time,Python
+804,3.8,Ugam,Python Developer,400000,1,Bangalore,Full Time,Python
+805,3.8,Not Applicable,Python Developer,300000,1,Bangalore,Full Time,Python
+806,3.9,XYZ Tech,Python Developer,216000,1,Bangalore,Full Time,Python
+807,3.8,Epsilon,Python Developer,300000,1,Bangalore,Full Time,Python
+808,3.9,Sabre,Python Developer,500000,1,Bangalore,Full Time,Python
+809,5.0,Talent Zone Consultants,Python Developer,700000,1,Bangalore,Full Time,Python
+810,3.9,Xylem Inc.,Database Engineer,500000,1,Bangalore,Full Time,Database
+811,4.4,Amelia,Database Engineer,1400000,1,Bangalore,Full Time,Database
+812,3.7,Danske IT and Support Services,Database Engineer,600000,1,Bangalore,Full Time,Database
+813,4.6,Intuit,Database Engineer,2400000,1,Bangalore,Full Time,Database
+814,3.0,Forte Solutions,Database Engineer - Contractor,900000,1,Bangalore,Contractor,Database
+815,3.8,BlogBeats,Database Engineer,1200000,1,Bangalore,Full Time,Database
+816,3.8,NTT DATA,Database Administrator,400000,2,Bangalore,Full Time,Database
+817,3.7,Microland,Database Administrator,500000,2,Bangalore,Full Time,Database
+818,4.0,Mindtree,Database Administrator,300000,2,Bangalore,Full Time,Database
+819,3.4,Kloud9,Database Administrator,200000,2,Bangalore,Full Time,Database
+820,3.9,Bharat Electronics,Database Administrator Contractor,264000,2,Bangalore,Contractor,Database
+821,4.1,IHS Markit,Database Administrator,1000000,2,Bangalore,Full Time,Database
+822,3.5,Aptean,Database Administrator,1020000,2,Bangalore,Full Time,Database
+823,3.2,Pythian,Database Administrator,200000,2,Bangalore,Full Time,Database
+824,3.8,FIS,Database Administrator,100000,2,Bangalore,Full Time,Database
+825,3.9,ABC,Database Administrator,1000000,2,Bangalore,Full Time,Database
+826,3.6,Wells Fargo,Database Administrator,1100000,2,Bangalore,Full Time,Database
+827,3.8,Teradata,Database Administrator,1100000,2,Bangalore,Full Time,Database
+828,3.8,Thermo Fisher Scientific,Database Administrator,800000,2,Bangalore,Full Time,Database
+829,3.7,Infinite Computer Solutions,Database Administrator,500000,2,Bangalore,Full Time,Database
+830,4.0,UST,Database Administrator,800000,2,Bangalore,Full Time,Database
+831,3.8,MH Alshaya,Database Administrator,700000,2,Bangalore,Full Time,Database
+832,3.8,First American Financial Corporation,Database Administrator,700000,2,Bangalore,Full Time,Database
+833,3.8,Wipro,Database Developer,600000,2,Bangalore,Full Time,Database
+834,3.5,DXC Technology,Senior Database Administrator,1000000,2,Bangalore,Full Time,Database
+835,3.7,Atlas Systems,Senior Database Administrator,500000,2,Bangalore,Full Time,Database
+836,4.0,J.P. Morgan,Senior Database Administrator,1100000,2,Bangalore,Full Time,Database
+837,3.3,Time Inc.,Senior Database Administrator,1500000,2,Bangalore,Full Time,Database
+838,3.8,Capgemini,Senior Database Administrator,1200000,2,Bangalore,Full Time,Database
+839,3.6,Tech Mahindra,Senior Database Administrator,700000,2,Bangalore,Full Time,Database
+840,3.7,Target,Senior Database Administrator,2000000,2,Bangalore,Full Time,Database
+841,4.3,Cisco Systems,Senior Database Administrator,2000000,2,Bangalore,Full Time,Database
+842,3.6,Cerner,Senior Database Administrator,1200000,2,Bangalore,Full Time,Database
+843,4.0,Mindtree,Senior Database Administrator,504000,2,Bangalore,Full Time,Database
+844,4.0,DeepLogicTech,Senior Database Administrator,1000000,2,Bangalore,Full Time,Database
+845,3.8,Epsilon,Oracle Database Administrator,500000,2,Bangalore,Full Time,Database
+846,3.8,NTT DATA,Oracle Database Administrator,100000,2,Bangalore,Full Time,Database
+847,4.0,Mindtree,Oracle Database Administrator,400000,2,Bangalore,Full Time,Database
+848,3.8,FOCUS EDUMATICS,Oracle Database Administrator,192000,2,Bangalore,Full Time,Database
+849,3.4,Datavail,Oracle Database Administrator,200000,2,Bangalore,Full Time,Database
+850,3.4,News Corp,Oracle Database Administrator,500000,2,Bangalore,Full Time,Database
+851,3.1,Data Intensity,Oracle Database Administrator,800000,2,Bangalore,Full Time,Database
+852,5.0,4spl Technologies India,Oracle Database Administrator,144000,2,Bangalore,Full Time,Database
+853,3.9,HARMAN,Oracle Database Administrator,600000,2,Bangalore,Full Time,Database
+854,3.8,LTI,Database Administrator (Database Administrator),500000,2,Bangalore,Full Time,Database
+855,3.4,Datavail,Database Administrator (Database Administrator),300000,2,Bangalore,Full Time,Database
+856,4.1,[24]7.ai,Database Administrator (Database Administrator),600000,2,Bangalore,Full Time,Database
+857,3.8,NTT DATA,Database Administrator (Database Administrator),400000,2,Bangalore,Full Time,Database
+858,3.3,Altisource,Database Administrator (Database Administrator),744000,2,Bangalore,Full Time,Database
+859,4.3,Dell Technologies,Database Administrator (Database Administrator),804000,2,Bangalore,Full Time,Database
+860,3.4,News Technology Services,Database Administrator (Database Administrator),100000,2,Bangalore,Full Time,Database
+861,3.7,Mphasis,Database Administrator (Database Administrator),420000,2,Bangalore,Full Time,Database
+862,3.9,Tata Consultancy Services,Database Administrator (DBA),288000,2,Bangalore,Full Time,Database
+863,3.9,Oracle,Senior Database Engineer,1600000,2,Bangalore,Full Time,Database
+864,4.2,Accenture Solutions,SQL Server Database Administrator,400000,2,Bangalore,Full Time,Database
+865,3.5,DXC Technology,SQL Server Database Administrator,500000,2,Bangalore,Full Time,Database
+866,3.8,Wipro Technologies,SQL Server Database Administrator,400000,2,Bangalore,Full Time,Database
+867,3.7,Microland,SQL Server Database Administrator,240000,2,Bangalore,Full Time,Database
+868,4.0,Mindtree,SQL Server Database Administrator,384000,2,Bangalore,Full Time,Database
+869,3.8,Wipro,SQL Server Database Administrator Contractor,540000,2,Bangalore,Contractor,Database
+870,3.8,FIS,Senior Database Developer,1200000,2,Bangalore,Full Time,Database
+871,4.1,IBM,Senior Oracle Database Administrator,1100000,2,Bangalore,Full Time,Database
+872,3.8,Cognizant Technology Solutions,Senior Oracle Database Administrator,500000,2,Bangalore,Full Time,Database
+873,3.9,Sabre,Senior Oracle Database Administrator,100000,2,Bangalore,Full Time,Database
+874,3.7,HCL Technologies,Senior Oracle Database Administrator,912000,2,Bangalore,Full Time,Database
+875,4.4,Amelia,SQL Database Administrator,900000,2,Bangalore,Full Time,Database
+876,3.3,Infosys,SQL Database Administrator,300000,2,Bangalore,Full Time,Database
+877,3.8,NTT DATA,SQL Database Administrator,300000,2,Bangalore,Full Time,Database
+878,3.6,Wells Fargo,Database Analyst,700000,2,Bangalore,Full Time,Database
+879,4.1,IBM,Oracle Applications Database Administrator,800000,2,Bangalore,Full Time,Database
+880,3.8,Wipro,Oracle Applications Database Administrator,400000,2,Bangalore,Full Time,Database
+881,3.5,DXC Technology,Oracle Applications Database Administrator,384000,2,Bangalore,Full Time,Database
+882,3.9,Tata Consultancy Services,Oracle Applications Database Administrator,700000,2,Bangalore,Full Time,Database
+883,3.9,Oracle,Senior Database Administrator (Database Administrator),900000,2,Bangalore,Full Time,Database
+884,4.0,J.P. Morgan,Senior Oracle-DBA,2200000,2,Bangalore,Full Time,Database
+885,4.1,Accenture,Senior SQL Server Database Administrator,1900000,2,Bangalore,Full Time,Database
+886,3.9,Sabre,Lead Database Administrator,100000,2,Bangalore,Full Time,Database
+887,4.4,Amelia,Lead Database Administrator,2300000,2,Bangalore,Full Time,Database
+888,3.3,Infosys,Database Manager,500000,2,Bangalore,Full Time,Database
+889,3.4,IBM India,DB2 Database Administrator,800000,2,Bangalore,Full Time,Database
+890,4.1,Accenture,DB2 Database Administrator,700000,2,Bangalore,Full Time,Database
+891,3.8,Capgemini,DB2 Database Administrator,300000,2,Bangalore,Full Time,Database
+892,4.1,IBM,SQL-DBA,500000,2,Bangalore,Full Time,Database
+893,3.9,Tata Consultancy Services,SQL-DBA,400000,2,Bangalore,Full Time,Database
+894,3.7,Target,Database Architect,2900000,2,Bangalore,Full Time,Database
+895,4.2,ClickSoftware,Database Architect,1900000,2,Bangalore,Full Time,Database
+896,3.3,Infosys,Mysql Database Administrator,240000,2,Bangalore,Full Time,Database
+897,3.8,CGI,Teradata Database Administrator,400000,2,Bangalore,Full Time,Database
+898,4.1,IBM,Ms SQL Database Administrator,200000,2,Bangalore,Full Time,Database
+899,3.6,Tech Mahindra,Ms SQL Database Administrator - Contractor,700000,2,Bangalore,Contractor,Database
+900,4.4,Thoughtworks,Mobile Developer,1200000,5,Bangalore,Full Time,Mobile
+901,4.3,GyanMatrix Technologies,Mobile Developer,500000,3,Bangalore,Full Time,Mobile
+902,3.8,Honeywell,Mobile Developer,800000,2,Bangalore,Full Time,Mobile
+903,4.0,Nuclei,Mobile Developer,800000,2,Bangalore,Full Time,Mobile
+904,4.4,entomo,Mobile Developer,420000,2,Bangalore,Full Time,Mobile
+905,3.9,Tata Consultancy Services,Mobile Developer,1000000,1,Bangalore,Full Time,Mobile
+906,4.1,Accenture,Mobile Developer,1200000,1,Bangalore,Full Time,Mobile
+907,3.8,Wipro,Mobile Developer,800000,1,Bangalore,Full Time,Mobile
+908,3.8,Capgemini,Mobile Developer,288000,1,Bangalore,Full Time,Mobile
+909,3.9,Publicis Sapient,Mobile Developer,480000,1,Bangalore,Full Time,Mobile
+910,4.2,Freelancer,Mobile Developer,200000,1,Bangalore,Full Time,Mobile
+911,4.1,Hewlett Packard Enterprise | HPE,Mobile Developer,600000,1,Bangalore,Full Time,Mobile
+912,4.1,Test,Mobile Developer,300000,1,Bangalore,Full Time,Mobile
+913,5.0,Talent Zone Consultants,Mobile Developer,1000000,1,Bangalore,Full Time,Mobile
+914,3.9,myGate,Mobile Developer,1400000,1,Bangalore,Full Time,Mobile
+915,3.7,Diverse Lynx,Mobile Developer,1200000,1,Bangalore,Full Time,Mobile
+916,3.9,Bookmyshow,Mobile Developer,500000,1,Bangalore,Full Time,Mobile
+917,3.7,Nityo Infotech,Mobile Developer,588000,1,Bangalore,Full Time,Mobile
+918,4.1,Tekion,Mobile Developer,800000,1,Bangalore,Full Time,Mobile
+919,3.8,DynPro,Mobile Developer,700000,1,Bangalore,Full Time,Mobile
+920,4.3,Grab,Mobile Developer,2500000,1,Bangalore,Full Time,Mobile
+921,4.0,Diksha Technologies,Mobile Developer,240000,1,Bangalore,Full Time,Mobile
+922,2.2,Compassites Software,Mobile Developer,1500000,1,Bangalore,Full Time,Mobile
+923,3.9,Inube Software Solutions,Mobile Developer,400000,1,Bangalore,Full Time,Mobile
+924,3.8,Signzy,Mobile Developer,600000,1,Bangalore,Full Time,Mobile
+925,3.7,Jaguar Land Rover,Mobile Developer,2000000,1,Bangalore,Full Time,Mobile
+926,3.9,OLX People,Mobile Developer,1164000,1,Bangalore,Full Time,Mobile
+927,4.0,WinWire Technologies,Mobile Developer,600000,1,Bangalore,Full Time,Mobile
+928,4.2,Trinity Mobility,Mobile Developer,312000,1,Bangalore,Full Time,Mobile
+929,3.2,Shaw Academy,Mobile Developer,1600000,1,Bangalore,Full Time,Mobile
+930,3.7,Opteamix,Mobile Developer,800000,1,Bangalore,Full Time,Mobile
+931,3.9,T-Mobile,Mobile Developer,300000,1,Bangalore,Full Time,Mobile
+932,3.9,ASDA group,Mobile Developer,252000,1,Bangalore,Full Time,Mobile
+933,3.7,Litmus World,Mobile Developer,240000,1,Bangalore,Full Time,Mobile
+934,4.0,ThiDiff Technologies,Mobile Developer,144000,1,Bangalore,Full Time,Mobile
+935,4.9,Toddle,Mobile Developer - Intern,588000,1,Bangalore,Intern,Mobile
+936,4.9,Toddle,Mobile Developer,1200000,1,Bangalore,Full Time,Mobile
+937,4.1,Health and Glow,Mobile Developer,228000,1,Bangalore,Full Time,Mobile
+938,3.6,TalentPace,Mobile Developer,300000,1,Bangalore,Full Time,Mobile
+939,4.2,Skylark Drones,Mobile Developer,800000,1,Bangalore,Full Time,Mobile
+940,4.1,Iglulabs Software,Mobile Developer,348000,1,Bangalore,Full Time,Mobile
+941,3.9,Stockal,Mobile Developer,1200000,1,Bangalore,Full Time,Mobile
+942,4.9,FullThrottle Labs,Mobile Developer,1000000,1,Bangalore,Full Time,Mobile
+943,3.9,Matic Network,Mobile Developer,900000,1,Bangalore,Full Time,Mobile
+944,4.5,Webknot Technologies,Mobile Developer - Intern,60000,1,Bangalore,Intern,Mobile
+945,3.9,Stasis,Mobile Developer,552000,1,Bangalore,Full Time,Mobile
+946,4.2,Applozic,Mobile Developer,800000,1,Bangalore,Full Time,Mobile
+947,5.0,Tataatsu Idea Labs,Mobile Developer,1000000,1,Bangalore,Full Time,Mobile
+948,3.8,Dataphi Labs,Mobile Developer,480000,1,Bangalore,Full Time,Mobile
+949,4.6,TUHUND,Mobile Developer,500000,1,Bangalore,Full Time,Mobile
+950,3.1,Optical Fusion,Mobile Developer,600000,1,Bangalore,Full Time,Mobile
+951,4.3,Applaunch,Mobile Developer,700000,1,Bangalore,Full Time,Mobile
+952,3.7,UI PEP Technologies,Mobile Developer,324000,1,Bangalore,Full Time,Mobile
+953,3.5,Foodmonk,Mobile Developer,444000,1,Bangalore,Full Time,Mobile
+954,4.1,Oboulo.com,Mobile Developer,444000,1,Bangalore,Full Time,Mobile
+955,4.7,Advisor Labs,Mobile Developer,600000,1,Bangalore,Full Time,Mobile
+956,3.4,Leher,Mobile Developer,900000,1,Bangalore,Full Time,Mobile
+957,2.6,Onedirect,Mobile Developer - Intern,240000,1,Bangalore,Intern,Mobile
+958,4.1,The Honey Baked Ham Company,Mobile Developer,576000,1,Bangalore,Full Time,Mobile
+959,3.9,Rubik,Mobile Developer,300000,1,Bangalore,Full Time,Mobile
+960,4.0,The-Ally,Mobile Developer,200000,1,Bangalore,Full Time,Mobile
+961,4.8,CRITICALSTART,Mobile Developer,2700000,1,Bangalore,Full Time,Mobile
+962,5.0,All Computer Solutions,Mobile Developer,700000,1,Bangalore,Full Time,Mobile
+963,4.0,Vimo Software Development,Mobile Developer,1000000,1,Bangalore,Full Time,Mobile
+964,4.1,IBM,Mobile Applications Developer,400000,5,Bangalore,Full Time,Mobile
+965,4.9,Omnify,Mobile Tech Lead,900000,4,Bangalore,Full Time,Mobile
+966,4.4,smallcase,Mobile Engineer,1400000,3,Bangalore,Full Time,Mobile
+967,3.9,Publicis Sapient,Senior Developer Mobile Solutions L2,200000,3,Bangalore,Full Time,Mobile
+968,3.4,IBM India,Mobile Applications Developer,168000,2,Bangalore,Full Time,Mobile
+969,4.5,Codewave,Mobile Applications Developer,276000,2,Bangalore,Full Time,Mobile
+970,4.0,JPMorgan Chase & Co,Senior Mobile Applications Developer,1700000,2,Bangalore,Full Time,Mobile
+971,3.9,Kirusa,Senior Mobile Applications Developer,1100000,2,Bangalore,Full Time,Mobile
+972,3.9,Publicis Sapient,Senior Developer Mobile Solutions,1200000,2,Bangalore,Full Time,Mobile
+973,3.8,Cognizant Technology Solutions,Mobile Applications Developer,500000,1,Bangalore,Full Time,Mobile
+974,3.8,Capgemini,Mobile Applications Developer,2200000,1,Bangalore,Full Time,Mobile
+975,4.2,Schneider Electric,Mobile Applications Developer,1500000,1,Bangalore,Full Time,Mobile
+976,4.0,HighRadius,Mobile Applications Developer,168000,1,Bangalore,Full Time,Mobile
+977,4.1,PayPal,Mobile Applications Developer,600000,1,Bangalore,Full Time,Mobile
+978,4.2,MakeMyTrip,Mobile Applications Developer,300000,1,Bangalore,Full Time,Mobile
+979,3.8,TE Connectivity,Mobile Applications Developer,600000,1,Bangalore,Full Time,Mobile
+980,3.8,Quinnox,Mobile Applications Developer,800000,1,Bangalore,Full Time,Mobile
+981,3.8,Digit Insurance,Mobile Applications Developer,1000000,1,Bangalore,Full Time,Mobile
+982,4.0,The Sparks Foundation,Mobile Applications Developer - Intern,120000,1,Bangalore,Intern,Mobile
+983,4.2,Embitel Technologies,Mobile Applications Developer,240000,1,Bangalore,Full Time,Mobile
+984,3.4,News Technology Services,Mobile Applications Developer,300000,1,Bangalore,Full Time,Mobile
+985,4.0,Mantra Labs,Mobile Applications Developer,1200000,1,Bangalore,Full Time,Mobile
+986,4.2,Trinity Mobility,Mobile Applications Developer,204000,1,Bangalore,Full Time,Mobile
+987,3.9,V2soft,Mobile Applications Developer,360000,1,Bangalore,Full Time,Mobile
+988,3.7,FrontRow (India),Mobile Applications Developer,900000,1,Bangalore,Full Time,Mobile
+989,3.5,Sonim Technologies,Mobile Applications Developer,800000,1,Bangalore,Full Time,Mobile

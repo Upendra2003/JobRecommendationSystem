@@ -1,0 +1,70 @@
+{% extends 'index.html' %}
+{% block content %}
+    <style>
+        .job-card{
+            border: 2px solid white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 5px;
+        }
+        .job-card h5{
+            font-weight: bold;
+        }
+        .job-card a{
+            text-decoration: none;
+            font-style: none;
+            color: white;
+        }
+        .job-card a:hover{
+            color: #040720;
+        }
+        .submit-btn:hover{
+            background-color: white;
+            color: #040720;
+        }
+        .job-card p{
+            font-weight: lighter;
+        }
+        hr{
+            color: white;
+        }
+        .one{
+            display: flex;
+        }
+        .one img{
+            width: 100px;
+            object-fit: contain;
+        }
+    </style>
+    <div class="container job-details">
+        <h1>Top Jobs For You!!</h1>
+        <hr>
+        {% if msg %}
+            <h1>{{msg}}</h1>
+        {% endif %}
+        <ul>
+            {% for job_index, details in job_details.items() %}
+                <div class="job-card">
+                    <div class="one">
+                        <img src={{ details['Company Logo'] }} alt="">
+                        <div class="pl-3">
+                            <h5><i class="fa-solid fa-building"></i> {{ details['Company Name'] }}</h5>
+                            <p><i class="fa-solid fa-circle-check"></i> {{ details['Job Title'] }}</p>
+                            <p><i class="fa-solid fa-coins"></i> Rs:{{ details['Salary'] }}</p>
+                        </div>
+                    </div>
+                    <div>
+                        <p><i class="fa-solid fa-location-arrow"></i> {{ details['Location'] }}</p>
+                        <p><i class="fa-solid fa-gears"></i> {{ details['Employment Status'] }}</p>
+                    </div>
+                    <div>
+                        <button class="submit-btn"><a href="http://www.{{ details['Company Url'] }}" target="_blank" rel="noopener noreferrer">Apply <i class="fa-solid fa-arrow-right-long"></i></a></button>
+                    </div>
+                </div>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
