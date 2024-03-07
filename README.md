@@ -25,7 +25,7 @@ This project aims to provide personalized job recommendations based on specific 
 
 ## Dataset
 
-The core dataset is sourced from Kaggle, featuring job-related information. It has been enriched with additional details, including company URLs and logos.
+The core dataset is sourced from Kaggle, featuring job-related information. It has been enriched with additional details, including company URLs and logos URLs.
 
 ## Usage
 
